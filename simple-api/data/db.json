@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "name": "person",
+      "_id": 1
+    },
+    {
+      "display_name": "first_name",
+      "_id": 2
+    },
+    {
+      "description": "summary_about_person",
+      "_id": 3
+    }
+  ],
+  "products": [
+    {
+      "category": "engineer",
+      "_id": 1
+    },
+    {
+      "name": "dania-alrababah",
+      "_id": 2
+    },
+    {
+      "display_name": "dania",
+      "_id": 3
+    },
+    {
+      "description": "iam_an_power_electrical_engineer",
+      "_id": 4
+    }
+  ]
+}
